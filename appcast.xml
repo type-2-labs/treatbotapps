@@ -4,7 +4,7 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Treat Bot Windows 1.2.2</title>
-            <description>First Update</description>
+            <description>Windows app was causing twitch extension problems</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
              <sparkle:version>1.2.2</sparkle:version>
             <enclosure 
