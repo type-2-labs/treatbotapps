@@ -13,12 +13,12 @@
             />
         </item>
         <item>
-            <title>Treat Bot Mac 1.2.1</title>
-            <description>First Update</description>
+            <title>Treat Bot Mac 1.2.2</title>
+            <description>Bug fixes</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-             <sparkle:version>1.0.0</sparkle:version>
+             <sparkle:version>1.2.2</sparkle:version>
             <enclosure 
-                url="https://github.com/type-2-labs/treatbotapps/releases/download/v0.0.1/TreatBot-macos.dmg" 
+                url="https://github.com/type-2-labs/treatbotapps/releases/download/v1.2.2/TreatBot.dmg" 
                 type="application/x-apple-diskimage"
                 sparkle:os="macos" 
             />
